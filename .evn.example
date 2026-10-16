@@ -1,0 +1,11 @@
+POSTGRES_PASSWORD=12345
+DATABASE_URL=postgresql://ragfence:12345@127.0.0.1:5434/ragfence
+# OpenRouter AI
+OPENROUTER_API_KEY=
+OPENROUTER_MODEL=nvidia/nemotron-3.5-super-vl:free
+
+# RAGFENCE Configuration
+RAGFENCE_MODE=secure
+JWT_SECRET=
+ALICE_PASSWORD=alice123
+BOB_PASSWORD=bob456
