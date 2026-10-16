@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+psycopg[binary]
+pgvector
+python-dotenv
+requests
+sentence-transformers
+pytest
+
